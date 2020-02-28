@@ -3,8 +3,9 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Main from '../components/Main';
 
-const App = () => {//deja de ser un componente stateful no contiene {}
-  // siempre se retorna un unico componente contenedor
+//Deja de ser un componente stateful una diferencia es que no contiene '{}' y se convierte en Stateless
+
+const App = () => {
   return (
     <>
       <Header />
