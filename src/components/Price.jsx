@@ -49,7 +49,7 @@ function Price() {
                             <li>Phone and email support</li>
                             <li>Help center access</li>
                         </ul>
-                        <button type="button" className="btn btn-lg btn-block btn-primary">Contact us</button>
+                        <button type="button" className="btn btn-lg btn-block btn-primary">Contact us!</button>
                     </div>
                 </div>
             </div>
